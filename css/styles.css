@@ -14,6 +14,13 @@ body {
 }
 .head-logo {
 	color: #4d5ae5;
+	font-family: Raleway;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 1.17;
+	line-height: 21px;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
 }
 .logo-studio {
 	color: #2e2f42;
