@@ -72,13 +72,26 @@ body {
 	color: #ffffff;
 	cursor: pointer;
 }
-.title-button .link:hover {
+.title-button:hover {
 	background-color: #404bbf;
 }
-.title-button .link:focus {
+.title-button:focus {
 	background-color: #404bbf;
 }
-
+/* section 2 */
+.skills-head {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+	color: #2e2f42;
+}
+.skills-list {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
 /* footer */
 .footer {
 	background-color: #2e2f42;
