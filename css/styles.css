@@ -39,10 +39,12 @@ body {
 	color: #434455;
 	font-style: normal;
 }
-.social-links .link:hover,
-.social-links .link:focus {
+.social-links .link:hover {
 	color: #404bbf;
 	font-style: normal;
+}
+.social-links .link:focus {
+	color: #404bbf;
 }
 /* section 1 */
 .section-top {
