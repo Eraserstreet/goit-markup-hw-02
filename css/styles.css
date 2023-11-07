@@ -39,7 +39,8 @@ body {
 	color: #434455;
 	font-style: normal;
 }
-.address .link:hover {
+.social-links .link:hover,
+.social-links .link:focus {
 	color: #404bbf;
 	font-style: normal;
 }
