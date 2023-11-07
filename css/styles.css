@@ -30,6 +30,7 @@ body {
 	color: #2e2f42;
 }
 .link {
+	color: #434455;
 	font-weight: 500;
 }
 .page-nav .link:hover {
@@ -39,13 +40,7 @@ body {
 	color: #434455;
 	font-style: normal;
 }
-.social-links .link:hover {
-	color: #404bbf;
-	font-style: normal;
-}
-.social-links .link:focus {
-	color: #404bbf;
-}
+
 /* section 1 */
 .section-top {
 	background-color: #2e2f42;
