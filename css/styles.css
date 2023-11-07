@@ -14,7 +14,7 @@ body {
 }
 .head-logo {
 	color: #4d5ae5;
-	font-family: 'Raleway', ans-serif;
+	font-family: Raleway, sans-serif;
 	font-size: 18px;
 	font-style: normal;
 	font-weight: 700;
@@ -24,6 +24,7 @@ body {
 }
 .logo-studio {
 	color: #2e2f42;
+	font-family: Raleway, sans-serif;
 }
 .page-nav {
 	color: #2e2f42;
@@ -36,6 +37,7 @@ body {
 }
 .address .link:hover {
 	color: #404bbf;
+	font-style: normal;
 }
 /* section 1 */
 .section-top {
