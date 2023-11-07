@@ -1,0 +1,48 @@
+body {
+	background-color: #fff;
+}
+.header {
+}
+.navigation {
+}
+.head-logo {
+	color: #4d5ae5;
+}
+.logo-studio {
+	color: #2e2f42;
+}
+.page-nav {
+	color: #2e2f42;
+}
+.page-nav .link:hover {
+	color: #404bbf;
+}
+.address {
+	color: #434455;
+}
+.address .link:hover {
+	color: #404bbf;
+}
+.section-top {
+	background-color: #2e2f42;
+}
+.footer {
+	background-color: #2e2f42;
+}
+a {
+	color: #2e2f42;
+}
+
+h1 {
+	color: #ffffff;
+}
+h2 {
+	color: #2e2f42;
+}
+h3 {
+	color: #2e2f42;
+}
+.footer {
+	background-color: #2e2f42;
+	color: #f4f4fd;
+}
