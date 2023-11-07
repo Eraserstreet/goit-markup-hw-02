@@ -10,8 +10,6 @@ body {
 /* Header */
 .header {
 }
-.navigation {
-}
 .head-logo {
 	color: #4d5ae5;
 	font-family: Raleway, sans-serif;
@@ -26,21 +24,34 @@ body {
 	color: #2e2f42;
 	font-family: Raleway, sans-serif;
 }
-.page-nav {
+.link-nav {
 	color: #2e2f42;
-}
-.link {
-	color: #434455;
 	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
 }
-.page-nav .link:hover {
+.link-nav:hover {
+	color: #404bbf;
+}
+.link-nav:focus {
 	color: #404bbf;
 }
 .address {
-	color: #434455;
 	font-style: normal;
 }
-
+.link-address {
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+.link-address:hover {
+	color: #404bbf;
+}
+.link-address:focus {
+	color: #404bbf;
+}
 /* section 1 */
 .section-top {
 	background-color: #2e2f42;
