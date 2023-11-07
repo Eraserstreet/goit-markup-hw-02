@@ -8,8 +8,7 @@ body {
 	letter-spacing: 0.02em;
 }
 /* Header */
-.header {
-}
+
 .head-logo {
 	color: #4d5ae5;
 	font-family: Raleway, sans-serif;
@@ -79,14 +78,14 @@ body {
 	background-color: #404bbf;
 }
 /* section 2 */
-.skills-head {
+.feature-head {
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
 	color: #2e2f42;
 }
-.skills-list {
+.feature-list {
 	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
