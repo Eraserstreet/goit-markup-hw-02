@@ -64,7 +64,15 @@ body {
 	line-height: 1.5;
 	letter-spacing: 0.04em;
 	color: #ffffff;
+	cursor: pointer;
 }
+.title-button .link:hover {
+	background-color: #404bbf;
+}
+.title-button .link:focus {
+	background-color: #404bbf;
+}
+
 /* footer */
 .footer {
 	background-color: #2e2f42;
