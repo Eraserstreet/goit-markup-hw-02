@@ -14,11 +14,11 @@ body {
 }
 .head-logo {
 	color: #4d5ae5;
-	font-family: Raleway;
+	font-family: 'Raleway', ans-serif;
 	font-size: 18px;
 	font-style: normal;
-	font-weight: 1.17;
-	line-height: 21px;
+	font-weight: 700;
+	line-height: 1.17;
 	letter-spacing: 0.03em;
 	text-transform: uppercase;
 }
